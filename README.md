@@ -13,7 +13,6 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 <div align="center">
